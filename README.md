@@ -1,37 +1,36 @@
-## Introduction
+<p align="center">
+  <h1 align="center">👋 Hi there, I'm Tim !</h1>
+  <p align="center">Versatile programmer with 3+ years of experience</p>
+</p>
 
-Hello there! 👋
+<p align="center">
+  <a href="https://www.tiboitel.dev">Portfolio</a> |
+  <a href="https://www.linkedin.com/in/tiboitel/">LinkedIn</a>
+  <a href="https://www.codingame.com/profile/867f4caf6cc7b94ff76dc070f0b61eb10305793">CodinGame/a>
+</p>
 
-I'm a versatile programmer with over 3 years of experience, specializing in PHP 8, Laravel, SQL, and Typescript. Additionally, I have a strong background in C, honed through multiple years of school projects and reverse-engineering, particularly in video-game automation like bots.
+<br />
 
-## Key Strengths
+💼 Varied Industry Experience: Specializing in Typescript, PHP, C / C++ and LLM I've delivered sustainable solutions for different companies.
 
-💼 Varied Industry Experience: I've worked with different companies, utilizing my expertise in PHP 8, Laravel, SQL, and Typescript to deliver working and substainable solutions.
+💡 Innovative Problem-Solver: I craft innovative solutions addressing real-life needs effectively.
 
-🎓 Competitive School Graduate: I successfully completed the curriculum of a competitive school, excelling in challenges like Codingame and gaining practical experience in various work environments.
+🚀 Diverse Project Portfolio: Projects include C programming, code packer, ELF injection, and a C++/OpenGL-based Bomberman game.
 
-💡 Innovative Problem-Solver: As a self-learner, I pride myself on crafting original and innovative solutions to projects, addressing real-life needs effectively.
+🛠️ Versatility in Languages and Frameworks: Proficient in C++, Java, Python, and various frameworks like Phaser.JS, SlimPHP, or Vue.js.
 
-🚀 Diverse Project Portfolio: My programming journey at 42 involved a wide range of solo and group projects, including C projects like rewriting malloc implementation, code packer, ELF injection, and creating a C++ and OpenGL-based Bomberman game.
+🌐 GitHub Presence: Hosting 52 diverse repositories related to emulation, game hacks, and more.
 
-🛠️ Versatility in Languages and Frameworks: In addition to my core skills, I'm proficient in reading and using C++, Java, Python.. As various frameworks like Phaser.JS, SlimPHP or Vue.js.
+📚 Continuous Learning: Actively reading code on GitHub, and pursuing React and Laravel certifications.
 
-🌐 GitHub Presence: While I may not have open-source contributions, my GitHub account hosts 52 diverse repositories, encompassing projects related to emulation, game hacks and tools etc...
+🌟 Seeking Challenging Projects: Eager to collaborate with fun, cohesive teams on exciting projects.
 
-📚 Continuous Learning: I'm dedicated to daily programming, actively reading code on GitHub, and soon pursuing certifications for React and Laravel to stay at the forefront of the tech landscape.
+🏆 Top 0.2% on CodinGame: Passionate about honing coding skills.
 
-🌟 Seeking Challenging Projects: I'm eager to collaborate with a fun and cohesive team on exciting projects.
-
-## Standout Achievements
-
-🏆 Top 0.2% on CodinGame: I love honing my coding skills and competing at the top level.
-
-🎓 42 Coding School Graduate: I learn and got alumni at 42 coding school.
-
+🎓 Competitive School Graduate: 42 school alumni.
 
 ## Get in Touch
 
-If you have an enticing opportunity or project, I'd love to hear from you! Reach me at tiboitel@42.student.fr and let's make something awesome together.
-  
+If you have an enticing opportunity or project, I'd love to hear from you! Reach me at tiboitel@student.42.fr and let's make something awesome together.
 
 * P.S. Lately, I've been exploring the fascinating realm of LLM models. The future of AI is incredibly intriguing! 🌌
