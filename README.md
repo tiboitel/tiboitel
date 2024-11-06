@@ -4,7 +4,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.tiboitel.dev">Portfolio</a> |
   <a href="https://www.linkedin.com/in/tiboitel/">LinkedIn</a> |
   <a href="https://www.codingame.com/profile/867f4caf6cc7b94ff76dc070f0b61eb10305793">CodinGame</a>
 </p>
