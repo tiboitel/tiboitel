@@ -10,13 +10,13 @@
 
 <br />
 
-💼 Varied Industry Experience: Specializing in Typescript, PHP, C / C++ and LLM I've delivered sustainable solutions for different companies.
+💼 Varied Industry Experience: Specializing in PHP, Typescrip, C and Generative IA I've delivered sustainable solutions for different companies.
 
 💡 Innovative Problem-Solver: I craft innovative solutions addressing real-life needs effectively.
 
-🚀 Diverse Project Portfolio: Projects include C programming, code packer, ELF injection, and a C++/OpenGL-based Bomberman game.
+🚀 Diverse Project Portfolio: Projects include PHP scripts, JS Game proof-of-concept, LLM-autocommit, Code packer, ELF injection, and a C++/OpenGL-based Bomberman game.
 
-📚 Continuous Learning: Actively reading code on GitHub, and pursuing React and Laravel certifications.
+📚 Continuous Learning: Actively reading code on GitHub, and pursuing Laravel certifications.
 
 🌟 Seeking Challenging Projects: Eager to collaborate with fun, cohesive teams on exciting projects.
 
