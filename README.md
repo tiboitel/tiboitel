@@ -16,7 +16,7 @@
 
 🚀 Diverse Project Portfolio: Projects include PHP scripts, JS Game proof-of-concept, LLM-autocommit, Code packer, ELF injection, and a C++/OpenGL-based Bomberman game.
 
-📚 Continuous Learning: Actively reading code on GitHub, and pursuing Laravel certifications.
+📚 Continuous Learning: Actively reading code on GitHub, and pursuing my way toward learning Bankai.
 
 🌟 Seeking Challenging Projects: Eager to collaborate with fun, cohesive teams on exciting projects.
 
